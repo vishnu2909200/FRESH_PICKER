@@ -57,7 +57,7 @@ that provides reliable freshness detection and quality evaluation for fruits and
 empowering consumers to make informed decisions and reduce waste.
 
 ## Solution:
-       Our solution is a revolutionary web application designed to streamline the process of
+Our solution is a revolutionary web application designed to streamline the process of
 assessing fruits and vegetable quality and freshness. Leveraging technologies such as the Intel
 oneAPI toolkit and advanced image recognition algorithms, our application aims to transform
 how consumers interact with products. Key features include:
