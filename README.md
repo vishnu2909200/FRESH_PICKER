@@ -1,6 +1,6 @@
 # FRESH_PICKER
 
-# FreshPicker - Quality and Storage Monitoring with Reminders _inteloneAPI
+# Quality and Storage Monitoring with Reminders _inteloneAPI
 
 1.file directory
 
@@ -32,7 +32,11 @@
             
             "streamlit run app.py"
 
+## dataset drive link
+
+            https://drive.google.com/drive/folders/18YIJhz7DfPHTS9pOgLojFKHWAWoMa4FE?usp=sharing
+
 
 ## dataset  and some trained models are too large .so, here I have shared my drive link .you can refer and download it.
 
-            https://drive.google.com/drive/folders/1uvgdeFO1zhgPkxr0H1kuggpFw1t7LZum?usp=sharing
+            https://drive.google.com/drive/folders/1kR-l7_63u6LWxUhMsXbFY43ik3hv3Sgu?usp=sharing
