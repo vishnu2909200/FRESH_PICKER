@@ -72,6 +72,12 @@ products.
 + Effortless inventory management allows users to receive proactive reminders when
 items are nearing expiration, minimizing food waste.
 
+## Intel oneAPI Integration:
+1. Intel oneAPI Deep Neural Networks Library(one DNN)
+   i)Intel Extension for TensorFlow
+   ii)Intel Extension for Pytorch
+
+
 # Demonstration of the Project
 
 ![WhatsApp Image 2024-04-05 at 11 34 38 PM](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/de9f58ca-0a7d-4b2e-b9b7-ac869612a166)
