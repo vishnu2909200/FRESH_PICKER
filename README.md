@@ -117,6 +117,8 @@ a single epoch now takes only 2 seconds, a substantial improvement compared to o
 environments, showcasing the remarkable speedup achieved with Intel's hardware
 resources and optimized software stack.
 
+>Comparison between time took in Intel Developers Cloud using OneDNN and Google Colab
+
 ![ACCURACY -quality prediction model](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/0135e156-aed6-40ca-94a7-9825051adefa)
 
 
