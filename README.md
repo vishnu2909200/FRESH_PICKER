@@ -13,7 +13,7 @@
 
     /streamlit webapp
           ├── app.py             <-- main script
-          └── streamlit envirnment   #mandatory creat streamlitenv  
+          └── streamlit environment   #mandatory create streamlitenv  
           └── models
                  └── xgmodel_without1api_job.pk1
                  └──100GPT
@@ -21,20 +21,20 @@
                     └── config.json
                     └── generation_config.json
                     └── merges.txt
-                    └──special_tokens_map.json
+                    └── special_tokens_map.json
                     └── tokenizer.json
                     └── tokenizer_config.json
                     └── training_args.bin
                     └── vocab.json
-                    └── model.safetensors  # that is a large file so i give my drive link
+                    └── model.safetensors  # that is a large file so i have shared my drive link.
                 
                    
                     
           
 
-2.install required packages into streamlit environment
+2.Install required packages into streamlit environment
 
-3.using this command to run our webapp
+3.Using this command to run our webapp
             
             "streamlit run app.py"
 
@@ -43,7 +43,7 @@
             https://drive.google.com/drive/folders/18YIJhz7DfPHTS9pOgLojFKHWAWoMa4FE?usp=sharing
 
 
- **dataset  and some trained models are too large .so, here I have shared my drive link .you can refer and download it.**
+ **dataset  and some trained models are too large. So, here I have shared my drive link .you can refer and download it.**
 
             https://drive.google.com/drive/folders/1kR-l7_63u6LWxUhMsXbFY43ik3hv3Sgu?usp=sharing
 
@@ -57,7 +57,7 @@ that provides reliable freshness detection and quality evaluation for fruits and
 empowering consumers to make informed decisions and reduce waste.
 
 ## Solution:
-Our solution is a revolutionary web application designed to streamline the process of
+       Our solution is a revolutionary web application designed to streamline the process of
 assessing fruits and vegetable quality and freshness. Leveraging technologies such as the Intel
 oneAPI toolkit and advanced image recognition algorithms, our application aims to transform
 how consumers interact with products. Key features include:
