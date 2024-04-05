@@ -74,6 +74,7 @@ items are nearing expiration, minimizing food waste.
 
 # Demonstration of the Project
 
+![WhatsApp Image 2024-04-05 at 11 34 38 PM](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/de9f58ca-0a7d-4b2e-b9b7-ac869612a166)
 
 
 
