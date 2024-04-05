@@ -106,3 +106,21 @@ expedited our fruit quality prediction model's development and deployment proces
 Specifically, we harnessed the power of Intel's GPU through Intel Extension for
 TensorFlow to accelerate critical components of our project: Fruits and Vegetables
 Quality Prediction.
+
+**Fruits and vegetables Quality Prediction Model Training:**
+The Intel Developer Cloud's GPU capabilities, combined with Intel Extension for TensorFlow, played a crucial role in
+reducing the training time of our Fruit Detection model. Leveraging Intel's
+high-performance computing infrastructure, we achieved more efficient model training,
+significantly cutting down the time required for optimization and experimentation.Notably,
+a single epoch now takes only 2 seconds, a substantial improvement compared to other
+environments, showcasing the remarkable speedup achieved with Intel's hardware
+resources and optimized software stack.
+
+**Recipe Generation Model:**
+Leveraging Intel Extension for PyTorch, our recipe generator
+model benefits from the accelerated development and deployment processes facilitated
+by Intel Developer Cloud. By harnessing Intel's GPU capabilities, we've significantly
+reduced training times, ensuring efficient model optimization and experimentation. This
+collaborative approach has led to remarkable speedups, enhancing the overall
+performance of our Recipe Generation model and streamlining the culinary creativity
+process.
