@@ -74,8 +74,10 @@ items are nearing expiration, minimizing food waste.
 
 ## Intel oneAPI Integration:
 1. Intel oneAPI Deep Neural Networks Library(one DNN)
-   i)Intel Extension for TensorFlow
-   ii)Intel Extension for Pytorch
+   
+    i) Intel Extension for TensorFlow
+   
+   ii) Intel Extension for Pytorch
 
 
 # Demonstration of the Project
