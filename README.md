@@ -26,7 +26,7 @@
                     
           
 
-2.install required pakages into streamlit environment
+2.install required packages into streamlit environment
 
 3.using this command to run our webapp
             
