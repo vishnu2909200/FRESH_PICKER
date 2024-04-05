@@ -158,3 +158,32 @@ There is no difference in accuracy
 
 ![intel](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/648801b5-88f6-4199-965e-bdc33ed1a0e4)
 
+## What it Does
+
+Our innovative application redefines the way users interact with fruits and
+vegetables, offering a comprehensive suite of features for freshness detection, storage
+management, recipe generation, and more. Here's an overview of its key functionalities:
+
+**1.Freshness Quality Detection:**
+Users can effortlessly assess the quality of fruits and vegetables by simply scanning
+them by uploading images. The application employs advanced image recognition
+algorithms to analyze the scanned product and provide its freshness status.This
+real-time assessment empowers users to make informed decisions and ensuring they
+only consume the freshest ingredients.
+
+**2.Smart Storage Management and Notification System:**
+Upon storing fruits and vegetables in the application, users receive personalized storage
+suggestions tailored to each item's specific requirements. The web app's intelligent
+notification system sends timely alerts ,when stored product is approaching expiration
+or showing signs of spoilage.
+
+**3.Recipe Generation and Ingredient Management:**
+Users have the option to generate recipes based on the ingredients they have on hand,
+making meal planning and preparation a breeze. The application's recipe generator
+analyzes user-provided ingredients and suggests delicious recipe options that utilize
+those items.
+
+**4.User-Friendly Interface and Seamless Integration:**
+Our application boasts a user-friendly interface that prioritizes simplicity and ease of use, allowing users to
+navigate effortlessly and access features with minimal effort.
+
