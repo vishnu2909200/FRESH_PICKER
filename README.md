@@ -2,6 +2,8 @@
 
 # Quality and Storage Monitoring with Reminders _inteloneAPI
 
+## Execution Command
+
 1.file directory
 
 
