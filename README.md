@@ -80,6 +80,7 @@ items are nearing expiration, minimizing food waste.
 
 
             
+
 ## FreshPicker - Two Models
 **1.Fruit and Vegetable quality prediction:**
 
@@ -98,7 +99,7 @@ model ensures seamless recipe generation. The process involves installing essent
 dependencies, fine-tuning GPT with a custom dataset, and configuring the model for
 recipe generation. 
 
-#Usage of Intel Developer Cloud:
+##Usage of Intel Developer Cloud:
         Utilizing the resources provided by Intel Developer Cloud has significantly
 expedited our fruit quality prediction model's development and deployment processes.
 Specifically, we harnessed the power of Intel's GPU through Intel Extension for
