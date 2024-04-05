@@ -38,12 +38,12 @@
             
             "streamlit run app.py"
 
-**dataset drive link**
+**Dataset Drive link**
 
             https://drive.google.com/drive/folders/18YIJhz7DfPHTS9pOgLojFKHWAWoMa4FE?usp=sharing
 
 
- **dataset  and some trained models are too large. So, here I have shared my drive link .you can refer and download it.**
+ **Some trained models and Dataset are too large. So, here I have shared my drive link .You can refer and download it.**
 
             https://drive.google.com/drive/folders/1kR-l7_63u6LWxUhMsXbFY43ik3hv3Sgu?usp=sharing
 
@@ -97,3 +97,10 @@ ingredients. Leveraging the cutting-edge capabilities of GPT and Intel's technol
 model ensures seamless recipe generation. The process involves installing essential
 dependencies, fine-tuning GPT with a custom dataset, and configuring the model for
 recipe generation. 
+
+#Usage of Intel Developer Cloud:
+        Utilizing the resources provided by Intel Developer Cloud has significantly
+expedited our fruit quality prediction model's development and deployment processes.
+Specifically, we harnessed the power of Intel's GPU through Intel Extension for
+TensorFlow to accelerate critical components of our project: Fruits and Vegetables
+Quality Prediction.
