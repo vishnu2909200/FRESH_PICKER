@@ -61,14 +61,14 @@ Our solution is a revolutionary web application designed to streamline the proce
 assessing fruits and vegetable quality and freshness. Leveraging technologies such as the Intel
 oneAPI toolkit and advanced image recognition algorithms, our application aims to transform
 how consumers interact with products. Key features include:
-● Automated evaluation of scanned fruits and vegetables quality and freshness using
++ Automated evaluation of scanned fruits and vegetables quality and freshness using
 advanced image recognition and AI.
-● Personalized recommendations on product quality, including ripeness, freshness, and
++ Personalized recommendations on product quality, including ripeness, freshness, and
 condition, are provided.
-● The option to upload images for analysis ensures accuracy and flexibility in assessing a
++ The option to upload images for analysis ensures accuracy and flexibility in assessing a
 wide range of products.
-● Interactive chatbot provides curated recipes and storage guidance tailored to scanned
++ Interactive chatbot provides curated recipes and storage guidance tailored to scanned
 products.
-● Effortless inventory management allows users to receive proactive reminders when
++ Effortless inventory management allows users to receive proactive reminders when
 items are nearing expiration, minimizing food waste.
             
