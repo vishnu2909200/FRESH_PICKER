@@ -80,3 +80,20 @@ items are nearing expiration, minimizing food waste.
 
 
             
+# FreshPicker - Two Models
+1.Fruit and Vegetable quality prediction:
+
+This model represents a significant advancement in product evaluation,
+leveraging Intel Extension for TensorFlow to redefine how we assess the freshness and
+quality of fruits and vegetables. Notably, running this code in Google Colab exceeded 30
+minutes, but leveraging Intel's GPU ensures completion in less than a minute. 
+
+2.Recipe Generator:
+
+This model represents a leap forward in culinary innovation,
+harnessing the power of GPT and Intel Extension for PyTorch. This groundbreaking
+model redefines culinary creativity by generating personalized recipes based on your
+ingredients. Leveraging the cutting-edge capabilities of GPT and Intel's technology, our
+model ensures seamless recipe generation. The process involves installing essential
+dependencies, fine-tuning GPT with a custom dataset, and configuring the model for
+recipe generation. 
