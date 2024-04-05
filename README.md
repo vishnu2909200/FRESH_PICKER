@@ -118,9 +118,6 @@ environments, showcasing the remarkable speedup achieved with Intel's hardware
 resources and optimized software stack.
 
 
->Comparison between Accuracy in Intel Developers Cloud using OneDNN and Google Colab
-
-![ACCURACY -quality prediction model](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/0135e156-aed6-40ca-94a7-9825051adefa)
 
 
 2.**Recipe Generation Model:**
@@ -132,6 +129,22 @@ collaborative approach has led to remarkable speedups, enhancing the overall
 performance of our Recipe Generation model and streamlining the culinary creativity
 process.
 
+
+# Inference
+
+### Accuracy
+
+There is no difference in accuracy
+>Comparison between Accuracy in Intel Developers Cloud using OneDNN and Google Colab
+
+![ACCURACY -quality prediction model](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/0135e156-aed6-40ca-94a7-9825051adefa)
+
+### Training Time
+
+1.For Quality prediction, the training time is reduced to 73% by leveraging Intel libraries
+2.LLM based Chatbot which is trained using Intel library has been reduced 99%
+
 >Comparison between time took in Intel Developers Cloud using OneDNN and Google Colab
 
 ![intel](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/648801b5-88f6-4199-965e-bdc33ed1a0e4)
+
