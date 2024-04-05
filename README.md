@@ -5,7 +5,7 @@
 1.file directory
 
 
-    /water_quality_prediction_inteloneAPI
+    /streamlit webapp
           ├── app.py             <-- main script
           └── streamlit envirnment   #mandatory creat streamlitenv  
           └── models
