@@ -128,4 +128,4 @@ collaborative approach has led to remarkable speedups, enhancing the overall
 performance of our Recipe Generation model and streamlining the culinary creativity
 process.
 
-https://github.com/vishnu2909200/FRESH_PICKER/issues/2#issue-2228679036
+![intel](https://github.com/vishnu2909200/FRESH_PICKER/assets/100519914/648801b5-88f6-4199-965e-bdc33ed1a0e4)
