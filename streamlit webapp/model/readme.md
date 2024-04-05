@@ -7,3 +7,11 @@ There should be a file named model.safetensors inside a 100GPT folder. Because o
 drive link:
 
          https://drive.google.com/drive/folders/1kR-l7_63u6LWxUhMsXbFY43ik3hv3Sgu?usp=sharing
+
+
+# model training:
+
+  Refer the my jupiter nootbooks to train a model.
+
+  link:   
+
