@@ -56,7 +56,7 @@ further.Thus, there’s a growing need for an innovative solution, integrating I
 that provides reliable freshness detection and quality evaluation for fruits and vegetables,
 empowering consumers to make informed decisions and reduce waste.
 
-## solution:
+## Solution:
 Our solution is a revolutionary web application designed to streamline the process of
 assessing fruits and vegetable quality and freshness. Leveraging technologies such as the Intel
 oneAPI toolkit and advanced image recognition algorithms, our application aims to transform
@@ -71,4 +71,12 @@ wide range of products.
 products.
 + Effortless inventory management allows users to receive proactive reminders when
 items are nearing expiration, minimizing food waste.
+
+# Demonstration of the Project
+
+
+
+
+
+
             
