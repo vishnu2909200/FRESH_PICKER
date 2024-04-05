@@ -127,3 +127,5 @@ reduced training times, ensuring efficient model optimization and experimentatio
 collaborative approach has led to remarkable speedups, enhancing the overall
 performance of our Recipe Generation model and streamlining the culinary creativity
 process.
+
+https://github.com/vishnu2909200/FRESH_PICKER/issues/2#issue-2228679036
