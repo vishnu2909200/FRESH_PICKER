@@ -141,10 +141,10 @@ There is no difference in accuracy
 
 ### Training Time
 
-1.For Quality prediction model, the training time is reduced to 73% by leveraging Intel libraries
+1.For Quality prediction model, the training time is reduced to **73%** by leveraging Intel libraries
 
 
-2.LLM based Chatbot(recipe bot)  which is trained using Intel library has been reduced 99%
+2.LLM based Chatbot(recipe bot)  which is trained using Intel library has been reduced **99%**
 
 >Comparison between time took in Intel Developers Cloud using OneDNN and Google Colab
 
