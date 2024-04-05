@@ -99,8 +99,8 @@ model ensures seamless recipe generation. The process involves installing essent
 dependencies, fine-tuning GPT with a custom dataset, and configuring the model for
 recipe generation. 
 
-##Usage of Intel Developer Cloud:
-        Utilizing the resources provided by Intel Developer Cloud has significantly
+**Usage of Intel Developer Cloud:**
+Utilizing the resources provided by Intel Developer Cloud has significantly
 expedited our fruit quality prediction model's development and deployment processes.
 Specifically, we harnessed the power of Intel's GPU through Intel Extension for
 TensorFlow to accelerate critical components of our project: Fruits and Vegetables
